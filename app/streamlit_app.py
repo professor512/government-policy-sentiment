@@ -3,6 +3,7 @@ import joblib
 import pandas as pd
 import numpy as np
 import streamlit as st
+from PIL import Image
 import plotly.express as px
 import plotly.graph_objects as go
 from streamlit_option_menu import option_menu
@@ -22,9 +23,10 @@ RESULTS_PATH = os.path.join(BASE_DIR, "models", "model_comparison.csv")
 # PAGE CONFIG
 # ============================================================
 
+_favicon = Image.open(os.path.join(os.path.dirname(__file__), "assets", "favicon.jpg"))
 st.set_page_config(
     page_title="Policy Sentiment AI",
-    page_icon="🏛️",
+    page_icon=_favicon,
     layout="wide",
     initial_sidebar_state="expanded"
 )

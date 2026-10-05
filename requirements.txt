@@ -9,4 +9,4 @@ wordcloud
 joblib
 streamlit
 openpyxl
-streamlit-option-menu
+streamlit-option-menuPillow
