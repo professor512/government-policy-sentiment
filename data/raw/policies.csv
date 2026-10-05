@@ -1,0 +1,31 @@
+policy_id,policy_name,category,text,sentiment
+1,National Education Policy,Education,"The new education policy provides students with better learning opportunities and modern educational facilities.",positive
+2,Digital India Initiative,Technology,"The digital initiative has made government services easier and more accessible to citizens.",positive
+3,Ayushman Bharat,Healthcare,"The healthcare scheme provides affordable medical treatment to millions of people across the country.",positive
+4,Skill India Mission,Employment,"The skill development program creates opportunities for young people to gain industry relevant skills.",positive
+5,Swachh Bharat Mission,Environment,"The cleanliness campaign has improved sanitation and encouraged citizens to maintain cleaner surroundings.",positive
+6,Make in India,Economy,"The initiative encourages manufacturing and creates new employment opportunities.",positive
+7,National Highway Development,Infrastructure,"Improved highways have reduced travel time and increased connectivity between cities.",positive
+8,Startup India,Economy,"The startup initiative supports entrepreneurs and provides opportunities for innovative businesses.",positive
+9,PM Kisan Scheme,Agriculture,"The financial support scheme provides assistance to farmers and helps improve their economic condition.",positive
+10,Ujjwala Yojana,Energy,"The scheme provides clean cooking fuel to households and improves the quality of life for families.",positive
+11,Education Policy Reform,Education,"The policy has created confusion among students and implementation remains difficult in many areas.",negative
+12,Digital Service Rollout,Technology,"Many citizens face difficulties using the digital services because of poor internet connectivity.",negative
+13,Healthcare Scheme,Healthcare,"Some beneficiaries have reported delays and difficulties while receiving healthcare services.",negative
+14,Skill Development Program,Employment,"The program has failed to provide sufficient employment opportunities in several regions.",negative
+15,Cleanliness Campaign,Environment,"The campaign has not solved waste management problems in many cities.",negative
+16,Manufacturing Initiative,Economy,"The initiative has faced criticism because expected employment growth has not been achieved.",negative
+17,Highway Project,Infrastructure,"Several highway projects have experienced delays and increased construction costs.",negative
+18,Startup Support,Economy,"Many startups still struggle to access funding despite government support.",negative
+19,Farming Assistance,Agriculture,"Farmers have complained that financial assistance is insufficient to cover increasing production costs.",negative
+20,Cooking Fuel Scheme,Energy,"Some families struggle to afford refills after receiving the initial cooking gas connection.",negative
+21,Education Reform,Education,"The government announced changes to improve the quality of education.",neutral
+22,Digital Governance,Technology,"The government plans to expand digital services to more departments.",neutral
+23,Healthcare Reform,Healthcare,"The government introduced a new healthcare policy for citizens.",neutral
+24,Employment Scheme,Employment,"The government launched a new employment and training program.",neutral
+25,Environmental Policy,Environment,"The government announced new measures related to environmental protection.",neutral
+26,Industrial Policy,Economy,"The government introduced a new policy to support industrial development.",neutral
+27,Transport Development,Infrastructure,"The government announced plans to construct new roads and highways.",neutral
+28,Entrepreneurship Program,Economy,"A new program was announced to provide support to entrepreneurs.",neutral
+29,Agricultural Reform,Agriculture,"The government announced new measures related to agricultural development.",neutral
+30,Energy Policy,Energy,"The government introduced a new policy concerning household energy access.",neutral
